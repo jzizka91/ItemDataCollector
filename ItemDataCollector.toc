@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Item Data Collector
+## Notes: Collects and saves item data.
+## SavedVariables: ItemDataCollectorDB
+ItemDataCollector.lua
